@@ -1,0 +1,14 @@
+#heading {
+    color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#child1 {
+    color: red;
+}
+#child2 {
+    color: rgb(98, 100, 108);
+}
